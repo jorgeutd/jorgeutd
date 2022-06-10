@@ -2,7 +2,7 @@
 
 ### About me:
 
-* :sparkles: I have two Masters in (1) OR, and (2) Data Science (Machine Learning Specialization) and am currently working as a Senior Data Scientist in the Healthcare / NLP domain.
+* :sparkles: I am currently working as a Senior Data Scientist in the Healthcare / NLP domain & I have two Masters in (1) OR, and (2) Data Science & Analytics (Computational Data Specialization).
 
 -  :sparkles: I try to learn something new about Deep Learning and Machine Learning everyday.
 
