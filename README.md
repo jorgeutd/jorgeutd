@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋 My name is Jorge, and I live in Columbus, OH.
 
-<!--
-**jorgeutd/jorgeutd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
 
-Here are some ideas to get you started:
+* :sparkles: I have two Masters in (1) OR, and (2) Data Science (Machine Learning Specialization) and am currently working as a Senior Data Scientist in the Healthcare / NLP domain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  :sparkles: I try to learn something new about Data Analytics and Machine Learning everyday. Check out what I am reading and evaluating [here](https://github.com/ngupta23/Data-Science-Knowlege-Base).
+
+
+### Languages:
+
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/python.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg" />
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/cplusplus.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/html5.svg" />
+<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/anaconda.svg" />
+
+☁️ Cloud
+AWS, GCP, Docker, Terraform, AWS CDK,Serverless Framework
+
+### Connect with me:
+
+[GitHub]: https://github.com/jorgeutd
+[linkedin]: https://www.linkedin.com/in/jorge-lopez-grisman-b1197953/
