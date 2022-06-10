@@ -4,7 +4,7 @@
 
 * :sparkles: I have two Masters in (1) OR, and (2) Data Science (Machine Learning Specialization) and am currently working as a Senior Data Scientist in the Healthcare / NLP domain.
 
--  :sparkles: I try to learn something new about Data Analytics and Machine Learning everyday. Check out what I am reading and evaluating [here](https://github.com/ngupta23/Data-Science-Knowlege-Base).
+-  :sparkles: I try to learn something new about Deep Learning and Machine Learning everyday.
 
 
 ### Languages:
