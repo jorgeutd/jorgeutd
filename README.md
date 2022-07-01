@@ -19,7 +19,7 @@ AWS, GCP, Docker, Terraform, AWS CDK,Serverless Framework
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/cplusplus.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/html5.svg" />
-<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/anaconda.svg" />
+<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/anaconda.svg" />. 
 
 
 
