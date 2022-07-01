@@ -9,6 +9,9 @@
 
 ### ⚡Technologies 
 
+**Cloud**
+AWS, GCP, Docker, Terraform, AWS CDK,Serverless Framework
+
 
 **Languages and Tools**
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/python.svg" />
@@ -17,9 +20,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/html5.svg" />
 <img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/anaconda.svg" />
 
-
-**Cloud**
-AWS, GCP, Docker, Terraform, AWS CDK,Serverless Framework
 
 ### Connect with me 
 <a href="https://twitter.com/jorge_utd" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
