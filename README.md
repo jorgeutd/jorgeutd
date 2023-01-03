@@ -10,7 +10,8 @@
 ### ⚡Technologies 
 
 **Cloud**
-AWS, GCP, Docker, Terraform, AWS CDK,Serverless Framework
+AWS, GCP, Docker, Terraform, AWS CDK,Serverless Framework.
+
 
 
 **Languages and Tools**
