@@ -20,7 +20,7 @@ AWS, GCP, Docker, Terraform, AWS CDK,Serverless Framework.
 <img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/go.svg" />
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/rstudio.svg"/></a>
 
-🐍 Python Stack
+** 🐍 Python Stack **
 - Natural Language Processing: Hugging Face (transformers, datasets), Rasa, spaCy, gensim, NLTK, Stanza
 - Machine Learning: TensorFlow, Scikit-learn, fast.ai
 - Data Prep - EDA: Pandas, Numpy Matplotlib, Seaborn, Bokeh
