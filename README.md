@@ -16,9 +16,9 @@ AWS, GCP, Docker, Terraform, AWS CDK,Serverless Framework.
 
 **Languages and Tools**
 
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/python.svg" /></a>
-<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/go.svg" /></a>
-<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/rstudio.svg" /></a>
+<a <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/python.svg" /></a>
+<a <img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/go.svg" /></a>
+<a img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/rstudio.svg" /></a>
 
 
 Python stack:
