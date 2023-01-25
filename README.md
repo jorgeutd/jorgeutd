@@ -22,14 +22,11 @@ AWS, GCP, Docker, Terraform, AWS CDK,Serverless Framework.
 
                                                                            
 <br />
-
- Python stack:
- 
+Python stack:
 - Natural Language Processing: Hugging Face (transformers, datasets), Rasa, spaCy, gensim, NLTK, Stanza
 - Machine Learning: TensorFlow, Scikit-learn, fast.ai
 - Data Prep - EDA: Pandas, Numpy Matplotlib, Seaborn, Bokeh
 - Misc Tools: TensorBoard, WandB, Comet, Gradio, Streamlit
-
 <br />
 
 ### 🔗 Let's Connect!
