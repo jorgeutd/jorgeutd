@@ -21,7 +21,7 @@ AWS, GCP, Docker, Terraform, AWS CDK,Serverless Framework.
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/rstudio.svg"/>
 
                                                                            
-¬
+---
 Python stack:
 
 - Natural Language Processing: Hugging Face (transformers, datasets), Rasa, spaCy, gensim, NLTK, Stanza
