@@ -18,14 +18,20 @@ AWS, GCP, Docker, Terraform, AWS CDK,Serverless Framework.
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/python.svg" />
 <img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/go.svg" />
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/cplusplus.svg" />
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/rstudio.svg" />
 
+🐍 Python Stack
+- Natural Language Processing: Hugging Face (transformers, datasets), Rasa, spaCy, gensim, NLTK, Stanza
+- Machine Learning: TensorFlow, Scikit-learn, fast.ai
+- Data Prep - EDA: Pandas, Numpy Matplotlib, Seaborn, Bokeh
+- Misc Tools: TensorBoard, WandB, Comet, Gradio, Streamlit
+
+R Stack
+- Data Science: ggplot2, dplyr, tidyverse, tidytext
 
 
 
-
-### Connect with me:
+### 🔗 Let's Connect!
 
 <a href="https://twitter.com/jorge_utd" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/jorge-lopez-grisman-b1197953/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
