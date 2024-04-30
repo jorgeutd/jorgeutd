@@ -6,8 +6,14 @@ A seasoned data science and analytics professional with over a decade of experie
 
 ### ⚡Technologies 
 
-**Cloud**
-AWS, GCP, Docker, Terraform, AWS CDK, Serverless Framework.
+### 🌩️ Cloud Technologies
+
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) AWS
+- ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) GCP
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker
+- ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) Terraform
+- ![AWS CDK](https://img.shields.io/badge/AWS_CDK-232F3E?style=flat&logo=amazonaws&logoColor=white) AWS CDK
+- ![Serverless](https://img.shields.io/badge/Serverless_Framework-FD5750?style=flat&logo=serverless&logoColor=white) Serverless Framework
 
 
 
