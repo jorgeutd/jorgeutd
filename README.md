@@ -11,12 +11,14 @@ AWS, GCP, Docker, Terraform, AWS CDK, Serverless Framework.
 
 
 
-**Languages and Tools**
-
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/python.svg" />
-<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/go.svg"/>
-<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/rstudio.svg"/>
-
+**Languages and Tools**:
+<p>
+  <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/python.svg"/>
+  <img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/go.svg"/>
+  <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/rstudio.svg"/>
+  <img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg"/>
+</p>
+<br/><br/>
                                                                            
 ## 💻 Technical Skills & Competencies
 
