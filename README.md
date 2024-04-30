@@ -1,8 +1,7 @@
 ## Hi there 👋 My name is Jorge, and I live in Columbus, OH.
 
-### About me:
-
-* :sparkles: I am currently working as a Senior Data Scientist in the Healthcare / NLP domain & I have two Masters in (1) OR, and (2) Data Science & Analytics (Computational Data Specialization).
+## 🌟 Personal Summary
+A seasoned data science and analytics professional with over a decade of experience in spearheading the development, leadership, and scaling of advanced machine learning, NLP, Generative AI, and analytics solutions. My expertise spans across product development, customer experience, and operations management, with a strong proficiency in machine learning, natural language processing, deep learning, data analysis, and statistical modeling.
 
 -  :sparkles: I try to learn something new about Deep Learning and Machine Learning everyday.
 
@@ -10,7 +9,7 @@
 ### ⚡Technologies 
 
 **Cloud**
-AWS, GCP, Docker, Terraform, AWS CDK,Serverless Framework.
+AWS, GCP, Docker, Terraform, AWS CDK, Serverless Framework.
 
 
 
@@ -24,8 +23,8 @@ AWS, GCP, Docker, Terraform, AWS CDK,Serverless Framework.
 ---
 Python stack:
 
-- Natural Language Processing: Hugging Face (transformers, datasets), Rasa, spaCy, gensim, NLTK, Stanza
-- Machine Learning: TensorFlow, Scikit-learn, fast.ai
+- Natural Language Processing: Hugging Face (transformers, datasets), Rasa, spaCy, gensim, NLTK, Stanza,LangChain, LlamaIndex.
+- Machine Learning: TensorFlow, Sklearn, TF, Pytorch, Keras, fast.ai
 - Data Prep - EDA: Pandas, Numpy Matplotlib, Seaborn, Bokeh
 - Misc Tools: TensorBoard, WandB, Comet, Gradio, Streamlit
 
