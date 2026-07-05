@@ -1,46 +1,44 @@
-## Hi there 👋 My name is Jorge, and I live in Columbus, OH.
+# Hi, I'm Jorge 👋
 
-## 🌟 Personal Summary
-A seasoned data science and analytics professional with over a decade of experience in spearheading the development, leadership, and scaling of advanced machine learning, NLP, Generative AI, and analytics solutions. My expertise spans across product development, customer experience, and operations management, with a strong proficiency in machine learning, natural language processing, deep learning, data analysis, and statistical modeling.
+**Principal AI Engineer — AI Agents & LLM Inference** · Columbus, OH
 
+I design and ship production AI systems end to end: multi-agent architectures, on-device and cloud LLM/STT inference, MCP tooling, and the evaluation, observability, and release governance that make them safe to run. 12+ years operating at Staff+/Principal level across data science, ML engineering, and GenAI in retail, insurance, and healthcare.
 
-### ⚡Technologies 
+## 🔭 What I work on
 
-### 🌩️ Cloud Technologies
+- **AI agents in production** — multi-agent swarm architectures with LangGraph, Azure OpenAI, FastAPI, and Kafka serving tens of thousands of daily interactions; agent evaluation and legacy-app modernization with agentic workflows.
+- **On-device inference** — local LLM + speech pipelines on Apple Silicon with llama.cpp and whisper.cpp (GGUF quantization, grammar-constrained decoding with GBNF for production-grade structured outputs), eliminating cloud inference cost and latency where the use case allows.
+- **Model Context Protocol (MCP)** — building MCP and FastMCP 2.0 servers so agents can safely operate over real business systems (policy management, claims, billing).
+- **Fine-tuning and adaptation** — SFT and alignment of open models (Llama, Gemma, DeBERTa) for function calling, intent recognition, and domain tasks; prompt-guard and content-filtering layers for safe release.
+- **AI observability and release governance** — cross-functional benchmarking, LLM-as-judge evaluation pipelines, MLflow tracing, and checksum-governed model release controls.
 
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) AWS
-- ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) GCP
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker
-- ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) Terraform
-- ![AWS CDK](https://img.shields.io/badge/AWS_CDK-232F3E?style=flat&logo=amazonaws&logoColor=white) AWS CDK
-- ![Serverless](https://img.shields.io/badge/Serverless_Framework-FD5750?style=flat&logo=serverless&logoColor=white) Serverless Framework
+## 🛠️ Stack
 
+**Agents & orchestration:** LangGraph · LangChain · Strands Agents · LlamaIndex · MCP / FastMCP · OpenAI Responses API
 
+**Inference & serving:** vLLM · SGLang · llama.cpp · whisper.cpp · GGUF · GBNF grammars · Apple Silicon (Metal) · TGI
 
-**Languages and Tools**:
-<p>
-  <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/python.svg"/>
-  <img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/go.svg"/>
-  <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/rstudio.svg"/>
-  <img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg"/>
-</p>
-<br/><br/>
-                                                                           
-## 💻 Technical Skills & Competencies
+**Models & fine-tuning:** Hugging Face Transformers · PyTorch · PEFT (LoRA/QLoRA) · AWS SageMaker · Llama · Gemma · Qwen · DeBERTa
 
-- **NLP / Generative AI**: Transformers, NLTK, spaCy, fastai, fastText, OpenAI, AWS Bedrock, Vertex AI, LangChain, LlamaIndex
-- **Machine Learning / Deep Learning**: Python (Sklearn, TensorFlow, PyTorch, Keras), R, Matlab, AWS SageMaker
-- **Time Series Forecasting**: Python (Sktime, Darts, Prophet, NeuralForecast, statsforecast)
-- **Query & Database**: SQL, PL/SQL, VQL, DAX, CYPHER (Neo4j) - Presto, Snowflake, Hive, AWS RDS pgvector DB, AWS DynamoDB, AWS Athena, SQL Server, PostgreSQL, Redshift, Neo4j
-- **Programming**: Python, R, Rust, Scala
-- **Version Control**: Git, Bitbucket, Gitlab
-- **Data Visualization**: Streamlit, MS Power BI, Tableau, AWS Quicksight, R Shiny
-- **Languages**: Fluent in English, Spanish, and Portuguese
-- **Product**: Roadmaps, Strategic/Systems Thinking, Experimentation, Experience Design, Technical Leadership
+**Cloud AI platforms:** AWS Bedrock · Azure OpenAI / AI Foundry · Google Vertex AI (Gemini)
 
+**ML / forecasting:** scikit-learn · TensorFlow · Keras · Sktime · Darts · Prophet · NeuralForecast · statsforecast
 
+**Data & infra:** Python · Rust · SQL (Presto, Snowflake, PostgreSQL, Hive) · CYPHER (Neo4j) · Qdrant · Redis · DynamoDB · Kafka · Docker · Terraform
 
-### 🔗 Let's Connect!
+## 📌 Featured projects
 
-<a href="https://twitter.com/jorge_utd" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+- [`llm-inference-starters`](https://github.com/jorgeutd/llm-inference-starters) — production-oriented starter code and deployment recipes for LLM inference engines (vLLM, SGLang, llama.cpp, TensorRT-LLM, Ollama, MLX), plus `llmstart`, a micro-benchmark CLI for TTFT and decode tokens/sec on any OpenAI-compatible endpoint.
+- [`local-agent-bench`](https://github.com/jorgeutd/local-agent-bench) — statistical benchmark for tool calling and structured outputs on local/quantized LLMs, with Wilson confidence intervals and bootstrap comparisons (quality: does your Q4 model still call the right tool?).
+- [`ondevice-llm-toolkit`](https://github.com/jorgeutd/ondevice-llm-toolkit) — macOS-first CLI for benchmarking llama.cpp builds and managing GGUF models locally (speed: tokens/sec, time to first token, memory).
+- [`swarm-multi-agent-orchestration`](https://github.com/jorgeutd/swarm-multi-agent-orchestration) — multi-agent orchestration patterns.
+- [`llm-finetuning-scripts-utils`](https://github.com/jorgeutd/llm-finetuning-scripts-utils) — SFT and alignment training scripts for transformer LMs on SageMaker.
+
+## 🌎 Languages
+
+English · Spanish · Portuguese
+
+## 🔗 Let's connect
+
 <a href="https://www.linkedin.com/in/jorge-lopez-grisman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/jorge_utd" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
