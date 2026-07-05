@@ -22,6 +22,8 @@ I design and ship production AI systems end to end: multi-agent architectures, o
 
 **Cloud AI platforms:** AWS Bedrock · Azure OpenAI / AI Foundry · Google Vertex AI (Gemini)
 
+**Systems & architecture:** Distributed & event-driven systems · Kafka · Microservices · REST/gRPC APIs · MCP server design · RAG architecture · AI observability (MLflow, tracing) · Release governance · CI/CD (GitHub Actions) · Docker · Terraform · AWS (ECS/Fargate, Lambda, S3)
+
 **ML / forecasting:** scikit-learn · TensorFlow · Keras · Sktime · Darts · Prophet · NeuralForecast · statsforecast
 
 **Data & infra:** Python · Rust · SQL (Presto, Snowflake, PostgreSQL, Hive) · CYPHER (Neo4j) · Qdrant · Redis · DynamoDB · Kafka · Docker · Terraform
