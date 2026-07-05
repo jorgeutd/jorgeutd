@@ -14,7 +14,7 @@ I design and ship production AI systems end to end: multi-agent architectures, o
 
 ## 🛠️ Stack
 
-**Agents & orchestration:** LangGraph · LangChain · Strands Agents · LlamaIndex · MCP / FastMCP · OpenAI Responses API
+**Agents & orchestration:** LangGraph · LangChain · Strands Agents · LlamaIndex · MCP / FastMCP · Deep Agents · openai-agents-python
 
 **Inference & serving:** vLLM · SGLang · llama.cpp · whisper.cpp · GGUF · GBNF grammars · Apple Silicon (Metal) · TGI
 
