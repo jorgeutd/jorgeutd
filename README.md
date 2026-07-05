@@ -2,6 +2,8 @@
 
 **Principal AI Engineer — AI Agents & LLM Inference**
 
+🌐 **Portfolio: [jorgeutd.github.io](https://jorgeutd.github.io/)** · 🧪 [Inference Lab](https://jorgeutd.github.io/inference/)
+
 I design and ship production AI systems end to end: multi-agent architectures, on-device and cloud LLM/STT inference, MCP tooling, and the evaluation, observability, and release governance that make them safe to run. I've built, deployed, monitored, and run evaluations for systems serving **100,000+ users**. 12+ years operating at Staff+/Principal level across data science, ML engineering, and GenAI in retail, insurance, and healthcare.
 
 ## 🔭 What I work on
