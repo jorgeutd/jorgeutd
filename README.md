@@ -2,7 +2,7 @@
 
 **Principal AI Engineer — AI Agents & LLM Inference**
 
-I design and ship production AI systems end to end: multi-agent architectures, on-device and cloud LLM/STT inference, MCP tooling, and the evaluation, observability, and release governance that make them safe to run. I've built, deployed, monitored, and run evaluations for systems serving **10,000+ users**. 12+ years operating at Staff+/Principal level across data science, ML engineering, and GenAI in retail, insurance, and healthcare.
+I design and ship production AI systems end to end: multi-agent architectures, on-device and cloud LLM/STT inference, MCP tooling, and the evaluation, observability, and release governance that make them safe to run. I've built, deployed, monitored, and run evaluations for systems serving **100,000+ users**. 12+ years operating at Staff+/Principal level across data science, ML engineering, and GenAI in retail, insurance, and healthcare.
 
 ## 🔭 What I work on
 
@@ -10,7 +10,7 @@ I design and ship production AI systems end to end: multi-agent architectures, o
 - **On-device inference** — local LLM + speech pipelines on Apple Silicon with llama.cpp and whisper.cpp (GGUF quantization, grammar-constrained decoding with GBNF for production-grade structured outputs), eliminating cloud inference cost and latency where the use case allows.
 - **Model Context Protocol (MCP)** — building MCP and FastMCP 2.0 servers so agents can safely operate over real business systems (policy management, claims, billing).
 - **Fine-tuning and adaptation** — SFT and alignment of open models (Llama, Gemma, DeBERTa) for function calling, intent recognition, and domain tasks; prompt-guard and content-filtering layers for safe release.
-- **AI observability and release governance** — cross-functional benchmarking, LLM-as-judge evaluation pipelines, MLflow tracing, and checksum-governed model release controls for systems serving 10k+ users.
+- **AI observability and release governance** — cross-functional benchmarking, LLM-as-judge evaluation pipelines, MLflow tracing, and checksum-governed model release controls for systems serving 100k+ users.
 
 ## 🛠️ Stack
 
