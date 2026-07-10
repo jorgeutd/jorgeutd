@@ -2,7 +2,7 @@
 
 **Principal AI Engineer — AI Agents & LLM Inference**
 
-🌐 **Portfolio: [jorgeutd.github.io](https://jorgeutd.github.io/)** · 🧪 [Inference Lab](https://jorgeutd.github.io/inference/)
+🌐 **Portfolio: [jorgeutd.github.io](https://jorgeutd.github.io/)** · 🧪 [Inference Lab](https://jorgeutd.github.io/inference/) · 🤗 [Hugging Face](https://huggingface.co/Jorgeutd)
 
 I design and ship production AI systems end to end: multi-agent architectures, on-device and cloud LLM/STT inference, MCP tooling, and the evaluation, observability, and release governance that make them safe to run. I've built, deployed, monitored, and run evaluations for systems serving **100,000+ users**. 12+ years operating at Staff+/Principal level across data science, ML engineering, and GenAI in retail, insurance, and healthcare.
 
@@ -48,5 +48,6 @@ English · Spanish · Portuguese
 
 ## 🔗 Let's connect
 
+<a href="https://huggingface.co/Jorgeutd" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&labelColor=555" /></a>
 <a href="https://www.linkedin.com/in/jorge-lopez-grisman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/jorge_utd" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
