@@ -1,53 +1,49 @@
-# Hi, I'm Jorge 👋
+# Jorge Grisman
 
-**Principal AI Engineer — AI Agents & LLM Inference**
+**Principal / Staff AI Engineer · Applied AI, agents & inference systems**
 
-🌐 **Portfolio: [jorgeutd.github.io](https://jorgeutd.github.io/)** · 🧪 [Inference Lab](https://jorgeutd.github.io/inference/) · 🤗 [Hugging Face](https://huggingface.co/Jorgeutd)
+[Portfolio](https://jorgeutd.github.io/) · [Hugging Face](https://huggingface.co/Jorgeutd) · [LinkedIn](https://www.linkedin.com/in/jorge-lopez-grisman) · [Contact](mailto:jorgel.grisman@outlook.com)
 
-I design and ship production AI systems end to end: multi-agent architectures, on-device and cloud LLM/STT inference, MCP tooling, and the evaluation, observability, and release governance that make them safe to run. I've built, deployed, monitored, and run evaluations for systems serving **100,000+ users**. 12+ years operating at Staff+/Principal level across data science, ML engineering, and GenAI in retail, insurance, and healthcare.
+I build AI systems from model behavior through the application and infrastructure around them. My work spans enterprise agents, on-device speech and language inference, model adaptation, and the evaluation and operational tools that help teams understand what they are shipping.
 
-## 🔭 What I work on
+My engineering career began in 2013, with applied data science and machine learning work from 2016 onward. My public model repositories contain work dating to 2021: transformer fine-tuning for classification, entity recognition, and summarization, followed by few-shot adaptation with SetFit.
 
-- **AI agents in production** — multi-agent swarm architectures with LangGraph, Azure OpenAI, FastAPI, and Kafka serving tens of thousands of daily interactions; agent evaluation and legacy-app modernization with agentic workflows.
-- **On-device inference** — local LLM + speech pipelines on Apple Silicon with llama.cpp and whisper.cpp (GGUF quantization, grammar-constrained decoding with GBNF for production-grade structured outputs), eliminating cloud inference cost and latency where the use case allows.
-- **Model Context Protocol (MCP)** — building MCP and FastMCP 2.0 servers so agents can safely operate over real business systems (policy management, claims, billing).
-- **Fine-tuning and adaptation** — SFT and alignment of open models (Llama, Gemma, DeBERTa) for function calling, intent recognition, and domain tasks; prompt-guard and content-filtering layers for safe release.
-- **AI observability and release governance** — cross-functional benchmarking, LLM-as-judge evaluation pipelines, MLflow tracing, and checksum-governed model release controls for systems serving 100k+ users.
+Staff AI Engineer at **Grainger**. Previously Principal ML Scientist at **GEICO**, Lead Data Scientist at **Quantum Health**, and data science roles at **Asurion**. Based in Worthington, Ohio.
 
-## 🛠️ Stack
+## Selected engineering work
 
-**Agents & orchestration:** LangGraph · LangChain · Strands Agents · LlamaIndex · MCP / FastMCP · Deep Agents · OpenAI Agents SDK (`openai-agents-python`)
+- **On-device speech and language systems:** local inference for a sales application used by 3,000+ sellers. Reported project outcomes include approximately $1.2M/year of eliminated cloud inference cost and 50,000+ hours/year saved.
+- **Enterprise email agents:** orchestration, enterprise capabilities, and document understanding for a workflow processing 48,000+ emails/day, with an 85% reduction in manual processing.
+- **Conversational AI in insurance:** voice and chat workflows connected to business systems. Reported outcomes include $2.7M/year in contact-center savings and a 14.7% reduction in live-agent transfers within two months.
 
-**Inference & serving:** vLLM · SGLang · TensorRT-LLM · llama.cpp · whisper.cpp · GGUF · GBNF grammars · Apple Silicon (Metal) · Ollama
+These outcomes belong to the individual projects described above. Public examples use illustrative data.
 
-**Models & fine-tuning:** Hugging Face Transformers · PyTorch · PEFT (LoRA/QLoRA) · AWS SageMaker · Llama · Gemma · Qwen · DeBERTa
+## Explore the code
 
-**Cloud AI platforms:** AWS Bedrock · Azure OpenAI / AI Foundry · Google Vertex AI (Gemini)
+- [**llm-inference-starters**](https://github.com/jorgeutd/llm-inference-starters) — starter code and deployment recipes across vLLM, SGLang, llama.cpp, TensorRT-LLM, Ollama, and MLX.
+- [**local-agent-bench**](https://github.com/jorgeutd/local-agent-bench) — tool calling, abstention, and structured-output evaluation for local models, with failure categories and uncertainty in the reports.
+- [**ondevice-llm-toolkit**](https://github.com/jorgeutd/ondevice-llm-toolkit) — a macOS-first CLI for benchmarking llama.cpp and managing GGUF models.
+- [**careflow-voice-agent**](https://github.com/jorgeutd/careflow-voice-agent) — a realtime voice-agent project for senior-living scheduling, accessibility support, and human handoff.
+- [**llm-finetuning-scripts-utils**](https://github.com/jorgeutd/llm-finetuning-scripts-utils) — training utilities for transformer fine-tuning and alignment on SageMaker.
 
-**Systems & architecture:** Distributed & event-driven systems · Kafka · Microservices · REST/gRPC APIs · MCP server design · RAG architecture · AI observability (MLflow, tracing) · Release governance · CI/CD (GitHub Actions) · Docker · Terraform · AWS (ECS/Fargate, Lambda, S3)
+## Open models, with history
 
-**ML / forecasting:** scikit-learn · TensorFlow · Keras · Sktime · Darts · Prophet · NeuralForecast · statsforecast
+A selection from my [public Hugging Face collection](https://huggingface.co/Jorgeutd):
 
-**Data & infra:** Python · Rust · SQL (Presto, Snowflake, PostgreSQL, Hive) · CYPHER (Neo4j) · Qdrant · Redis · DynamoDB · Kafka · Docker · Terraform
+- [**BERT · adverse drug events**](https://huggingface.co/Jorgeutd/bert-base-uncased-ade-Ade-corpus-v2) — healthcare text classification; repository history reaches November 2021.
+- [**RoBERTa · emotion**](https://huggingface.co/Jorgeutd/sagemaker-roberta-base-emotion) — emotion classification trained on SageMaker; work dating to December 2021.
+- [**ALBERT · named entities**](https://huggingface.co/Jorgeutd/albert-base-v2-finetuned-ner) and [**BERT-large · named entities**](https://huggingface.co/Jorgeutd/bert-large-uncased-finetuned-ner) — token classification work from 2022.
+- [**DistilBART · summarization**](https://huggingface.co/Jorgeutd/distilbart-cnn-12-6-finetuned-xsum) — an XSum summarization fine-tune from 2022.
+- [**SetFit · 50-shot sentiment**](https://huggingface.co/Jorgeutd/setfit-bge-small-v1.5-sst2-50-shot) — BGE-small adaptation on SST-2 with 50 training examples per class, from 2024.
 
-## 📌 Featured projects
+Dates refer to repository commit history, not the date a repository first became public.
 
-- [`llm-inference-starters`](https://github.com/jorgeutd/llm-inference-starters) — production-oriented starter code and deployment recipes for LLM inference engines (vLLM, SGLang, llama.cpp, TensorRT-LLM, Ollama, MLX), plus `llmstart`, a micro-benchmark CLI for TTFT and decode tokens/sec on any OpenAI-compatible endpoint.
-- [`local-agent-bench`](https://github.com/jorgeutd/local-agent-bench) — statistical benchmark for tool calling and structured outputs on local/quantized LLMs, with Wilson confidence intervals and bootstrap comparisons (quality: does your Q4 model still call the right tool?).
-- [`ondevice-llm-toolkit`](https://github.com/jorgeutd/ondevice-llm-toolkit) — macOS-first CLI for benchmarking llama.cpp builds and managing GGUF models locally (speed: tokens/sec, time to first token, memory).
-- [`swarm-multi-agent-orchestration`](https://github.com/jorgeutd/swarm-multi-agent-orchestration) — multi-agent orchestration patterns.
-- [`llm-finetuning-scripts-utils`](https://github.com/jorgeutd/llm-finetuning-scripts-utils) — SFT and alignment training scripts for transformer LMs on SageMaker.
+## Engineering interests
 
-## 🧪 Interactive
+**Agents and systems:** workflow ownership, bounded tool use, enterprise APIs, event-driven architecture, trace inspection, evaluation, and release evidence.
 
-- **[Inference Lab](https://jorgeutd.github.io/inference/)** — an interactive, technically accurate visualization of the transformer KV cache and state-of-the-art serving techniques (PagedAttention, continuous batching, speculative decoding, GQA/MQA, prefix caching, KV quantization, and prefill/decode disaggregation).
+**Inference and adaptation:** llama.cpp, whisper.cpp, vLLM, SGLang, GGUF, PyTorch, Transformers, PEFT, SageMaker, and constrained structured outputs.
 
-## 🌎 Languages
+**Tools people can use:** model workbenches, classifier review interfaces, interactive architecture diagrams, and explanations that make model mechanisms inspectable.
 
-English · Spanish · Portuguese
-
-## 🔗 Let's connect
-
-<a href="https://huggingface.co/Jorgeutd" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&labelColor=555" /></a>
-<a href="https://www.linkedin.com/in/jorge-lopez-grisman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/jorge_utd" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+[Explore the portfolio →](https://jorgeutd.github.io/)
