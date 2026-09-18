@@ -20,6 +20,7 @@ These outcomes belong to the individual projects described above. Public example
 
 ## Explore the code
 
+- [**graph-evidence-lab**](https://github.com/jorgeutd/graph-evidence-lab) — trained graph retrieval, Markdown import, time-aware evidence, lexical baselines and a reproducible evaluation with inspectable message traces.
 - [**llm-inference-starters**](https://github.com/jorgeutd/llm-inference-starters) — starter code and deployment recipes across vLLM, SGLang, llama.cpp, TensorRT-LLM, Ollama, and MLX.
 - [**local-agent-bench**](https://github.com/jorgeutd/local-agent-bench) — tool calling, abstention, and structured-output evaluation for local models, with failure categories and uncertainty in the reports.
 - [**ondevice-llm-toolkit**](https://github.com/jorgeutd/ondevice-llm-toolkit) — a macOS-first CLI for benchmarking llama.cpp and managing GGUF models.
